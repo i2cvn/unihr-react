@@ -1,0 +1,24 @@
+.jumbotron {
+  text-align: center;
+  background-color: #f7f7f7;
+  background-image: url("/images/background/bg_hr_001.png");
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 60vh;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+.btn.btn-slg {
+  width: 100%;
+  padding: 24px;
+  box-shadow: 0px 0px 8px 8px #3333;
+}
+.btn.btn-slg.btn-info {
+  background-color: rgb(51, 150, 207);
+}
+.btn.btn-slg.btn-info.lighter {
+  background-color: rgb(116, 187, 228);
+}
